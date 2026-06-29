@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/WYG/v1/juan/4
+seq: 4
+front:
+  text: 欽定四庫全書欽定儀象考成卷四
+  hash: sha256:f3305c5a91bb82373e04cfc1ba9ca2e61e6830e66af253933b0893bc9bcc43ab
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_004-1a, image: WYG0793/WYG0793-0112a.png}
+body:
+  text: 恒星黄道經緯度表三黄道娵訾宫赤道度附欽定儀象考成卷四
+  hash: sha256:552d1f0bc8d17c7c65ee0b63502a5b18b9890b3a37ba291a6032c11276e66b55
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷四
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_004.txt
+hash: sha256:480ca2a28a12f9dd16958d9eccaac8d046cecb6bcbdf2b563d8e4147d6ce051c

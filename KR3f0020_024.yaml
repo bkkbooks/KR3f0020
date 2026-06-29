@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/krp/v1/juan/24
+seq: 24
+front:
+  text: 欽定四庫全書欽定儀象考成卷二十四
+  hash: sha256:70be7999ea92f2052ad52fd939d1fe1fe7f58ab22e4c3b458c9303a2830d2430
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_024-1a, image: WYG0793/WYG0793-0321a.png}
+body:
+  text: 恆星赤道經緯度表十一赤道大火宫黃道度附欽定儀象考成卷二十四
+  hash: sha256:336fcc1d2cb4f05254b4b5537a36459421cb87dd2554345868632bb0fcb04b23
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷二十四
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_024.txt
+hash: sha256:9147951f494201c88e11ba0710721f3cab0eaa44f4b72aca32347292b287ab81

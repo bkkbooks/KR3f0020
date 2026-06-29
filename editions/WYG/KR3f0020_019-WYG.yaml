@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/WYG/v1/juan/19
+seq: 19
+front:
+  text: 欽定四庫全書欽定儀象考成卷十九
+  hash: sha256:41168f1f221ff5587e951e48141a5d09c9f5edd33bcafab76eafafc2025465b5
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_019-1a, image: WYG0793/WYG0793-0269a.png}
+body:
+  text: 恒星赤道經緯度表六赤道實沈宫黄道度附欽定儀象考成卷十九
+  hash: sha256:3fea8abd38e13ece1253daa9c93cef46edf718982f01f9a326477f5e5a88857a
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷十九
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_019.txt
+hash: sha256:cd9ca2e0758d5e2de4c1bf3918b25bf637be179336f6ce500f210e219e4018d8

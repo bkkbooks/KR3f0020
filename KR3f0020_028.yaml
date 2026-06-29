@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/krp/v1/juan/28
+seq: 28
+front:
+  text: 欽定四庫全書欽定儀象考成卷二十八
+  hash: sha256:d728389d03ea3ff0fd1a7bc1e6e3dce423d402e56e51d5fbc7803eaf9a417a1d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_028-1a, image: WYG0793/WYG0793-0384a.png}
+body:
+  text: 天漢經緯度表二黃道南天漢度欽定儀象考成卷二十八
+  hash: sha256:7d4966165437ee6310c1bfe883adf99b767f9b0b745abddff06cff3588eb6b6b
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷二十八
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_028.txt
+hash: sha256:cbcb58ad4144306114fd2478c598b9d0d46d839f86f4361ff2167b22e5d2bd14

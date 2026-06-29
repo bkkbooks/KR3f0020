@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/krp/v1/juan/5
+seq: 5
+front:
+  text: 欽定四庫全書欽定儀象考成卷五
+  hash: sha256:1bc91f97ede3f753325a490a383267b2dd22b13faaf728a27e893958c0098cec
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_005-1a, image: WYG0793/WYG0793-0121c.png}
+body:
+  text: 恆星黃道經緯度表四黃道降婁宫欽定儀象考成卷五
+  hash: sha256:91f58f269a22394be7066968528eabcd7304afcc54c0668de862a89e10f614a0
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷五
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_005.txt
+hash: sha256:f5899f16568057d2f9b85d779964ca720c98e5e34e76fa65cd0f3bd943fa8e31

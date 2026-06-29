@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/krp/v1/juan/3
+seq: 3
+front:
+  text: 欽定四庫全書欽定儀象考成卷三
+  hash: sha256:aabcf5d8877f3afdc699c32c2ac70535fb98e8f9093911088ed096ef9a9d5d1b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_003-1a, image: WYG0793/WYG0793-0100a.png}
+body:
+  text: 恆星黃道經緯度表二黃道元枵宫赤道度附欽定儀象考成卷三
+  hash: sha256:6dc34b6173a8fef8d7edd14526a123032ac6dc21dfd3ad94dac4a2ba74f2058f
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷三
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_003.txt
+hash: sha256:edaa750b964222b031183f4218dd7a646bf396ff30905746b52675a76334c73d

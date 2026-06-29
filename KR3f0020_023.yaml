@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/krp/v1/juan/23
+seq: 23
+front:
+  text: 欽定四庫全書欽定儀象考成卷二十三
+  hash: sha256:d591290ff33844b261204cade61be9df16cd918781ada68793d921c344585906
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_023-1a, image: WYG0793/WYG0793-0309c.png}
+body:
+  text: 恆星赤道經緯度表十赤道夀星宫黃道度附欽定儀象考成卷二十三
+  hash: sha256:832b617f79e37ea1a1c02ff3d57ddcc8af3c15981bacc819d5e20a8e82870a2e
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷二十三
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_023.txt
+hash: sha256:3dfcad71615a5bc7707cc7891112f72501945f27ea106d7186571a7d1770ca6c

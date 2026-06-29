@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/krp/v1/juan/7
+seq: 7
+front:
+  text: 欽定四庫全書欽定儀象考成卷七
+  hash: sha256:d5f77ee8e6ef02294cf68f398f45f438812a6381868a008490bb5ac40618a671
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_007-1a, image: WYG0793/WYG0793-0142a.png}
+body:
+  text: 恆星黃道經緯度表六黃道實沈宫赤道度附欽定儀象考成卷七
+  hash: sha256:4e98e782e8745c2e9140aebe97da57c28024f77557cdfa17a11b3478d19a580a
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷七
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_007.txt
+hash: sha256:ac290ae1d2bdbeb1958ffeafdab2e18d16658adcf30946e2527f653a3178751c

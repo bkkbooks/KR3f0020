@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/krp/v1/juan/10
+seq: 10
+front:
+  text: 欽定四庫全書欽定儀象考成卷十
+  hash: sha256:d3efa39e8ab77a09a3646f8ecc9351f767cd7710671a4ad2216fab06893cd56b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_010-1a, image: WYG0793/WYG0793-0175a.png}
+body:
+  text: 恆星黃道經緯度表九黃道鶉尾宫赤道度附欽定儀象考成卷十
+  hash: sha256:8e5d9c90915e977dca79b71a646e391c1aef3fac9e413b0d0f4e803edc2c0e58
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷十
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_010.txt
+hash: sha256:936d12a34e2e04638a1e7cd6a33d813cc5691b8bde4a18e6f7cb0e16506af4c0

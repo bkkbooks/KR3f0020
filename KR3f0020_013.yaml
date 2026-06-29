@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/krp/v1/juan/13
+seq: 13
+front:
+  text: 欽定四庫全書欽定儀象考成卷十三
+  hash: sha256:6ed68467e0efd93f4f221e730673dbcb2d71389e40ecb9ee0c2c209ac4c229ca
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_013-1a, image: WYG0793/WYG0793-0201a.png}
+body:
+  text: 恆星黃道經緯度表十二黃道析木宫赤道度附欽定儀象考成卷十三
+  hash: sha256:06833832a467b96fa874652d8194871334300acdac05449a0dae1696b2c99a7e
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷十三
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_013.txt
+hash: sha256:f093fb02a20b0f0e0e86beeca7fe6d3e8b90136906677f82535a8a24eef23c05

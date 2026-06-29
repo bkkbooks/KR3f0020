@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/WYG/v1/juan/12
+seq: 12
+front:
+  text: 欽定四庫全書欽定儀象考成卷十二
+  hash: sha256:980ba0bb445dd2e435a8f787cea0c735d8a5c2f40da04fbce4b2e27782064574
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_012-1a, image: WYG0793/WYG0793-0193a.png}
+body:
+  text: 恒星黄道經緯度表十一黄道大火宮赤道度附欽定儀象考成卷十二
+  hash: sha256:a141deaa8a4fbecf7fd5dc32595cd442e91613bc1eecd5a83fae19e41aa97d0d
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷十二
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_012.txt
+hash: sha256:2c3705cece787f50bc40b620935be14b0f287498573e80c9a7705af8073ca3f3

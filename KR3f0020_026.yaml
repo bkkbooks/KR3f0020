@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/krp/v1/juan/26
+seq: 26
+front:
+  text: 欽定四庫全書欽定儀象考成卷二十六
+  hash: sha256:adad7f4284ddd5ea664dc248fbf2c53ca9eb23e835bd27b3360cca8d69d72203
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_026-1a, image: WYG0793/WYG0793-0342c.png}
+body:
+  text: 月五星相距恆星經緯度表黃道十二宫赤道度附月五星相距恆星經緯度表恆星在天各有定位月五星東行過之南北相距一度以內為犯月距十七分以內五星距三分以內為凌同度為掩月五星出入黃道不過十度故取黃道南北十度以內之恆星依黃道次序列為表而以赤道經緯附之并將赤道歲差列於其下推算之法詳見考成上編兹不具載欽定儀象考成卷二十六
+  hash: sha256:b952f1b3087e43f8c7dfaf860bb6d2d94ccf64b637f2396789e9391c91816ab8
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷二十六
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_026.txt
+hash: sha256:de10f88cd046cf5cdc887c8315e4a79f93eb9363d23059fbe3c25c59a400bb7f

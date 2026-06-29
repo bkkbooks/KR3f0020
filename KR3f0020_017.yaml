@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/krp/v1/juan/17
+seq: 17
+front:
+  text: 欽定四庫全書欽定儀象考成卷十七
+  hash: sha256:ed6a9d64731f87719a39e3c18bff859bab1cf1daddba4ec840be9f250c9bc432
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_017-1a, image: WYG0793/WYG0793-0248a.png}
+body:
+  text: 恆星赤道經緯度表四赤道降婁宫黃道度附欽定儀象考成卷十七
+  hash: sha256:2a002386ba9cb66527bdd3680b2a47001c13e483e15711e65c56ea6bd27eda9a
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷十七
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_017.txt
+hash: sha256:a34d9201815520c016f9ba142abb40cab97724c5dd429a13b76bd9e88dca889e

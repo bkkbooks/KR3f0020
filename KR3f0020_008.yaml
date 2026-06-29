@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/krp/v1/juan/8
+seq: 8
+front:
+  text: 欽定四庫全書欽定儀象考成卷八
+  hash: sha256:9257fc8726a0f42a01d7e48dfc2abb961eebc0567a2a3e092b754e2700c21d6e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_008-1a, image: WYG0793/WYG0793-0152a.png}
+body:
+  text: 恆星黃道經緯度表七黃道鶉首宫赤道度附欽定儀象考成卷八
+  hash: sha256:ddf39fcdab3643104c12b2a80f4be000b70028e91604bd26a86e728caf575f93
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷八
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_008.txt
+hash: sha256:1fb5ce9d7a07c4551243acca26a479a63d404aac43be978306859d51e3472870

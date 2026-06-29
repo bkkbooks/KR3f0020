@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/krp/v1/juan/6
+seq: 6
+front:
+  text: 欽定四庫全書欽定儀象考成卷六
+  hash: sha256:79f79b1ac1d7433f26af9e0fdab1f5af3b40de76c011bd4f43295d9c57c74e88
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_006-1a, image: WYG0793/WYG0793-0130a.png}
+body:
+  text: 恆星黃道經緯度表五黃道大梁宫赤道度附欽定儀象考成卷六
+  hash: sha256:c7dcff5a518072b0587a4cbd2a0e4f80418f15438ace7a53f08d2f7845b7257a
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷六
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_006.txt
+hash: sha256:98c9f9298e383c199794a6da24af7e206bfe04791f02d15d182863c365ed5b45

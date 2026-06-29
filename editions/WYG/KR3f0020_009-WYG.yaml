@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/WYG/v1/juan/9
+seq: 9
+front:
+  text: 欽定四庫全書欽定儀象考成卷九
+  hash: sha256:90881d05a53f5f34f4cfd8b0e623ef88fbe6c1754e99e9608eb7b9bcacb14d4d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_009-1a, image: WYG0793/WYG0793-0163c.png}
+body:
+  text: 恒星黄道經緯度表八黄道鶉火宫赤道度附欽定儀象考成卷九
+  hash: sha256:7a8922782e9ee7fef9de818b9ebad518d9f1e98ff9f331a3b9be464ed9d24a20
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷九
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_009.txt
+hash: sha256:5e8185aabadf11b8ab947abbb7b56e160359f70d41eece96268c4e7788f41cff

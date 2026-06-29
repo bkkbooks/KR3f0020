@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/WYG/v1/juan/30
+seq: 30
+front:
+  text: 欽定四庫全書欽定儀象考成卷三十
+  hash: sha256:b97e254025ea708486fc8197f4617d44862b7808b5f7f3b6b24676cbe74b6f3b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_030-1a, image: WYG0793/WYG0793-0399c.png}
+body:
+  text: 天漢經緯度表四赤道南天漢度欽定儀象考成卷三十
+  hash: sha256:a28cfcb2dd258819c13b87e02391abb4f600fb685c1712625ce00c903864468a
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷三十
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_030.txt
+hash: sha256:1bb59bc720c7fd6fa524f33e220095200efb75a2e3c1101a9fbfd4fe9b495812

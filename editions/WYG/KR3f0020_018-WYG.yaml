@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/WYG/v1/juan/18
+seq: 18
+front:
+  text: 欽定四庫全書欽定儀象考成卷十八
+  hash: sha256:540b19917b46b18a73b7c6ce21bef9ab211157c98f41dab4f54ed5829c5f2de3
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_018-1a, image: WYG0793/WYG0793-0259a.png}
+body:
+  text: 恒星赤道經緯度表五赤道大梁宫黄道度附欽定儀象考成卷十八
+  hash: sha256:2d06dd2a0b1d1815d34ceca24c6e8125c3b6c31f7fc8d1a65db184165d25ca43
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷十八
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_018.txt
+hash: sha256:8861cd337a29d95868369cece1d626765ca66b3293b717db92c4558fd04642ac

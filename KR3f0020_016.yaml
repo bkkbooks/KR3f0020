@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/krp/v1/juan/16
+seq: 16
+front:
+  text: 欽定四庫全書欽定儀象考成卷十六
+  hash: sha256:b97fe809e6fea3b4619aa5643669bf3e4ac11535383f6d5986cf1bd2da105b97
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_016-1a, image: WYG0793/WYG0793-0237a.png}
+body:
+  text: 恆星赤道經緯度表三赤道娵訾宫黃道度附欽定儀象考成卷十六
+  hash: sha256:19866f3abbccd192a0060ef2b06f02cbfd6eae9a1e0346359ae17de623b88cc8
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷十六
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_016.txt
+hash: sha256:dfbfa327ecf626d98123f8006c54c4db887420378a818e75d7180e678d96428e

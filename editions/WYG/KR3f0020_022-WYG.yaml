@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3f0020/WYG/v1/juan/22
+seq: 22
+front:
+  text: 欽定四庫全書欽定儀象考成卷二十二
+  hash: sha256:ff5f35ac6c44bd249932169daa3f3fa88a439b39da360fdbdcb8a6b02fd86cf6
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_022-1a, image: WYG0793/WYG0793-0299c.png}
+body:
+  text: 恒星赤道經緯度表九赤道鶉尾宫黄道度附欽定儀象考成卷二十二
+  hash: sha256:fbdfb89d44efdc6790e724b36b90dc243d6803c5444c35511cc71410507c2f0b
+metadata:
+  title: 欽定儀象考成
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:09:54.580361'
+  juan_title: 卷二十二
+  source:
+    repository: kanripo
+    path: KR3f0020/KR3f0020_022.txt
+hash: sha256:725f545dd4f2480f26fdf0d21896e60853e931502da1b00f13455c6d8d026ae4
