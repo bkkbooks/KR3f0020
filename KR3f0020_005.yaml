@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_005-1a, image: WYG0793/WYG0793-0121c.png}
 body:
-  text: 恆星黃道經緯度表四黃道降婁宫欽定儀象考成卷五
-  hash: sha256:91f58f269a22394be7066968528eabcd7304afcc54c0668de862a89e10f614a0
+  text: 恒星黄道經緯度表四黄道降婁宫欽定儀象考成卷五
+  hash: sha256:e1e0dfc61339d09f4c9b64f56d204645a0e615304515e266b547f472b8af40b4
 metadata:
   title: 欽定儀象考成
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3f0020/KR3f0020_005.txt
-hash: sha256:f5899f16568057d2f9b85d779964ca720c98e5e34e76fa65cd0f3bd943fa8e31
+hash: sha256:4472f58fd9c323d0f5d3447a3665deafd0808ecb2f2a739fe5cd306fef44ad6d
