@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3f0020_WYG_011-1a, image: WYG0793/WYG0793-0185a.png}
 body:
-  text: 恒星黄道經緯度表十黄道壽星宫赤道度附欽定儀象考成卷十一
-  hash: sha256:083c5a8fedb083130896b1d2bfdff0f40604ab66ee349ff48d36b6cfd7358955
+  text: 恆星黃道經緯度表十黃道壽星宫赤道度附欽定儀象考成卷十一
+  hash: sha256:69e867d102ca69ab9b70fcfefff7ca5fd9db3afbab6927fd1f7120079972a160
 metadata:
   title: 欽定儀象考成
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3f0020/KR3f0020_011.txt
-hash: sha256:3d6f12e05b4ac76bddb8e9ba87f0b6ba5dfbb82efe83cf94238e0f1a9728b1ce
+hash: sha256:bece15b1074d348e7fbb4d07e472e10e7f9cdc7759a3ddd4f04767451658847c
